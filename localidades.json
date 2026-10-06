@@ -1,0 +1,14 @@
+[
+  {
+    "seccion": "General",
+    "asientosTotales": 150,
+    "asientosDisponibles": 150,
+    "precioEntrada": 15.00
+  },
+  {
+    "seccion": "maracaibo zulia",
+    "asientosTotales": 30,
+    "asientosDisponibles": 30,
+    "precioEntrada": 40.00
+  }
+]

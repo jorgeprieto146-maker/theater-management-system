@@ -1,0 +1,4 @@
+|80|80|2
+jorge|12|11|45.00
+Maracaibo zulia teatro Bellas artes|25|25|12.32
+la rosa negra|22|22|14.00
